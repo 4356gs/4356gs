@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4356gs
 - 👀 I’m interested in Full Stack development  ✈
-- 🌱 I’m currently learning Data Analytics from Google at Coursera. 
-- 💞️ I’m looking to collaborate on mobile projects
+- 🌱 I’m currently learning Data Engineering from IBM at Coursera. 
+- 💞️ I’m looking to collaborate on mobile programming or data analisys projects
 - 📫 You can reach always @ gelos@hotmail.com 
 
 <!---
